@@ -1,0 +1,9 @@
+variaveis,significado,tipo
+S.NO,"Contador",nominal
+Name,"Nome do atleta",nominal
+Nationality,"País de nascimento ['USA', 'Brazil', 'France', 'Australia', 'Canada', 'UK', 'Austria', 'Germany', 'Russia', 'Italy', 'Finland', 'Switzerland', 'Philippines', 'Portugal', 'Dominican', 'Argentina', 'Filipino', 'Spain', 'Serbia', 'Northern Ireland', 'Ireland', 'Mexico']",nominal
+Current Rank,"Classificação atual do atleta [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",ordinal
+Previous Year Ranking,"Classificação do ano anterior",nominal
+Sport,"Esporte praticado ['boxing', 'auto racing', 'golf', 'basketball', 'Basketball', 'Boxing', 'Auto Racing', 'Golf', 'Tennis', 'NFL', 'Auto racing', 'NBA', 'Baseball', 'Ice Hockey', 'American Football / Baseball', 'tennis', 'ice hockey', 'F1 Motorsports', 'NASCAR', 'Hockey', 'Auto Racing (Nascar)', 'F1 racing', 'American Football', 'soccer', 'baseball', 'cycling', 'motorcycle gp', 'Soccer', 'MMA']",nominal
+Year,"Ano da competição [1990 - 2020]",ordinal
+earnings ($million),"Ganho em milhões de dólares",ordinal
